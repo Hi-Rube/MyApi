@@ -1,0 +1,12 @@
+.info_operation{
+    background: #f8f8f8;
+}
+
+.info_operation_left{
+    background: #fff;
+}
+
+#info_add_block{
+    width:90%;
+    margin: 20px auto;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MyApi",
+  "version": "0.0.1",
+  "description": "Open source API management platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/Rube/MyApi.git"
+  },
+  "keywords": [
+    "api",
+    "MyApi",
+    "management platform",
+    "Open source"
+  ],
+  "dependencies": {
+    "express-session":"<=1.10.2",
+    "express": "<=4.10.6",
+    "mongoose": "<=3.8.20",
+    "eventproxy": "<=0.3.1",
+    "validator": "<=3.26.0",
+    "body-parser": "1.9.2"
+  },
+  "author": "Rube",
+  "license": "ISC"
+}
